@@ -1,4 +1,4 @@
-Senior Multi-Stack Architect Level and & Technical Leader 
+<h3>Senior Multi-Stack Architect Level and & Technical Leader </h3>
 
 I am excited to offer you an 𝐢𝐦𝐩𝐫𝐞𝐬𝐬𝐢𝐯𝐞 set of skills as a leader, full 𝐦𝐮𝐥𝐭𝐢-𝐬𝐭𝐚𝐜𝐤 developer, and 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 (𝑟𝑒𝑎𝑑 𝑏𝑒𝑙𝑜𝑤), with a 𝒹𝑒𝒹𝒾𝒸𝒶𝓉𝑒𝒹 𝒶𝓃𝒹 𝓋𝑒𝓇𝓎 𝒽𝓊𝓂𝒶𝓃 service with over 𝟏𝟐 𝐲𝐞𝐚𝐫𝐬 of successful experience working with various companies and personal projects. I focus on coding standards at enterprise level, being passionate about excelling in every aspect of my work, with focus in go beyond expectations about human service quality, making it delightful and smooth to work with me.
 
@@ -32,15 +32,14 @@ I look forward to the opportunity for a pleasant discussion about your project.
 𝐉𝐞𝐬𝐮𝐬
 
 TAGS:
-[𝗥𝗼𝗹𝗲𝘀]: Senior Developer, Senior Architect, IT Manager, Team Lead, Scrum Master, Customer Support Lead, Backend Developer, Frontend Developer, Multi-stack Developer, Full-stack Developer, E-Commerce Expert, Algorithmic Trader, Software Designer, Technical Recruiter.
-[𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀]: Java, PHP, Python, JavaScript, HTML, CSS, Vanilla JS, TypeScript.
-[𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀]: Spring, Laravel, Django, Next.js, React, Vue, Svelte, Livewire, Bootstrap, TailwindCSS, SASS, SCSS.
-[𝗗𝗲𝘀𝗶𝗴𝗻]: Figma, UI Design, UX Design.
-[𝗖𝗿𝘆𝗽𝘁𝗼]: Crypto, Blockchain, Solana, Web3, DeFi, Financial Indicators.
-[𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲]: 𝙈𝙖𝙜𝙚𝙣𝙩𝙤, 𝙎𝙝𝙤𝙥𝙞𝙛𝙮, CS Cart Custom Modules, PWA JS Library.
-[𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀]: TDD, DDD, RAD.
-[𝗧𝗿𝗮𝗱𝗶𝗻𝗴]: Algorithmic Trading, MT4/5, Pinescript.
-[𝗗𝗼𝗺𝗮𝗶𝗻𝘀]: Crypto Industry, Banking, Retail, IoT, Web, Android, IOS.
-[𝗦𝗸𝗶𝗹𝗹𝘀]: Data Scraping, Code Fixing, Mathematical Models, AI Technology, Reporting Tools, Service Tools.
-[𝗔𝘁𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝘀]: Clever, Hardworking, Human-centric, Customer Satisfaction, Collaboration.
-[𝗥𝗲𝘀𝘂𝗹𝘁𝘀]: Scalable Solutions, Custom Plugins, High-quality Solutions, Dynamic Storefronts, WOW sensation.
+<p>[𝗥𝗼𝗹𝗲𝘀]: Senior Developer, Senior Architect, IT Manager, Team Lead, Scrum Master, Customer Support Lead, Backend Developer, Frontend Developer, Multi-stack Developer, Full-stack Developer, E-Commerce Expert, Algorithmic Trader, Software Designer, Technical Recruiter.</p>
+<p>[𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀]: Java, PHP, Python, JavaScript, HTML, CSS, Vanilla JS, TypeScript.</p>
+<p>[𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀]: Spring, Laravel, Django, Next.js, React, Vue, Svelte, Livewire, Bootstrap, TailwindCSS, SASS, SCSS.</p>
+<p>[𝗖𝗿𝘆𝗽𝘁𝗼]: Crypto, Blockchain, Solana, Web3, DeFi, Financial Indicators.</p>
+<p>[𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲]: 𝙈𝙖𝙜𝙚𝙣𝙩𝙤, 𝙎𝙝𝙤𝙥𝙞𝙛𝙮, CS Cart Custom Modules, PWA JS Library.</p>
+<p>[𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀]: TDD, DDD, RAD.</p>
+<p>[𝗧𝗿𝗮𝗱𝗶𝗻𝗴]: Algorithmic Trading, MT4/5, Pinescript.</p>
+<p>[𝗗𝗼𝗺𝗮𝗶𝗻𝘀]: Crypto Industry, Banking, Retail, IoT, Web, Android, IOS.</p>
+<p>[𝗦𝗸𝗶𝗹𝗹𝘀]: Data Scraping, Code Fixing, Mathematical Models, AI Technology, Reporting Tools, Service Tools.</p>
+<p>[𝗔𝘁𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝘀]: Clever, Hardworking, Human-centric, Customer Satisfaction, Collaboration.</p>
+<p>[𝗥𝗲𝘀𝘂𝗹𝘁𝘀]: Scalable Solutions, Custom Plugins, High-quality Solutions, Dynamic Storefronts, WOW sensation.</p>
